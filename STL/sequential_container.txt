@@ -1,0 +1,24 @@
+1.vector
+    增：push_back,insert
+    删：erase ,clear
+    查:   iterator,for(auto a:容器)
+2.deque
+    增：
+    删：
+    查:
+3.list
+    增：
+    删：
+    查:
+4.forward_list
+    增：
+    删：
+    查:
+5.array
+    增：
+    删：
+    查:
+6.string
+    增：
+    删：
+    查:
