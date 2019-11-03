@@ -16,9 +16,18 @@
     查:  iterator,const_reverse_iterator,const_iterator,for(auto a:容器)
 5.array
     增：无
-    删：
-    查:
+    删：无
+    查: iterator
 6.string
     增：push_back,insert
     删：erase,clear,pop_back
     查:   iterator,for(auto a:容器)
+ 7.stack
+    增: push
+    删:pop
+    查:stop
+ 8.queue和priority_queue
+     增:push
+     删:pop
+     查:stop,back,front
+随机访问数值:vector,string,array,deque.
