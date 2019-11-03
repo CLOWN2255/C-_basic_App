@@ -1,24 +1,24 @@
 1.vector
     增：push_back,insert
-    删：erase ,clear
+    删：erase ,clear,pop_back
     查:   iterator,for(auto a:容器)
 2.deque
-    增：
-    删：
-    查:
+    增：push_back,push_front,insert
+    删：erase,clear,pop_back,pop_front
+    查:  iterator,for(auto a:容器)
 3.list
-    增：
-    删：
-    查:
+    增：push_back,push_front,insert
+    删：erase,clear,pop_back,pop_front
+    查:  iterator,for(auto a:容器)
 4.forward_list
-    增：
-    删：
-    查:
+    增：push_front,insert_after
+    删：erase,clear
+    查:  iterator,const_reverse_iterator,const_iterator,for(auto a:容器)
 5.array
-    增：
+    增：无
     删：
     查:
 6.string
-    增：
-    删：
-    查:
+    增：push_back,insert
+    删：erase,clear,pop_back
+    查:   iterator,for(auto a:容器)
